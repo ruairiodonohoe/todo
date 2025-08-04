@@ -1,1 +1,1 @@
-web: gunicorn django_project.wsgi --logfile -
+python-3.13.4
